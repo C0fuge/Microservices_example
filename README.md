@@ -18,7 +18,7 @@
 * **Maven**
 
 ## Как запустить локально
-1. Клонировать репозиторий: `git clone https://github.com/твой-ник/job-board-microservices.git`
+1. Клонировать репозиторий: `git clone https://github.com/User_name/Microservices_example.git`
 2. Запустить по очереди `ResumeServiceApplication` и `VacancyServiceApplication`.
 3. Запустить `NotificationServiceApplication`.
 4. Открыть в браузере: `http://localhost:8083/api/check-updates`
